@@ -1,4 +1,0 @@
-learngit
-========
-
-test github repository
