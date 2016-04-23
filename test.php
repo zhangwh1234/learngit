@@ -11,4 +11,7 @@ class test{
         var_dump('test');
     }
 
+    public function index(){
+        echo 'yes';
+    }
 }
